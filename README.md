@@ -40,6 +40,6 @@ Create a footer layout with proper design.
 
 ## Expected Output
 Here is a screenshot of the expected output.
-![Image description](https://i1.faceprep.in/ProGrad/flex-1.png)
+![Image description](https://i1.faceprep.in/ProGrad/flex-2.png)
 
 Happy Coding ❤️
