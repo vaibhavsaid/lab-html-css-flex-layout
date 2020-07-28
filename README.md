@@ -29,19 +29,18 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 The starter-code contains all the files, images, and text content needed to create the scoreboard. 
 The text is in the index.html, and a css file is created in style.css. Font to be used should be Nunito Sans. Remember to follow the best practices.
 
-### Progression 1: Set the mood
+### Progression 1: Where is my head
+Create a header layout.
 
-Use the background image and CricPro logo to recreate the atmosphere
+### Progression 2: Design Design Design
 
-### Progression 2: Tabulate the scores
 
-Now, using the data in the below expected output, tabulate the scores of our players.
 
-### Progression 3: Let the details Pop up 
-Once you have tabulated the scores, create a pop up which opens up on clicking a player's name.
+### Progression 3: Where is my foot 
+Create a footer layout.
 
 ## Expected Output
 Here is a screenshot of the expected output.
-![Image description](https://i1.faceprep.in/ProGrad/cricpro.png)
+![Image description](https://i1.faceprep.in/ProGrad/flex-1.png)
 
 Happy Coding ❤️
