@@ -30,13 +30,13 @@ The starter-code contains all the files, images, and text content needed to crea
 The text is in the index.html, and a css file is created in style.css. Font to be used should be Nunito Sans. Remember to follow the best practices.
 
 ### Progression 1: Where is my head
-Create a header layout with proper design.
+Your task in this iteration is to create a header.
 
 ### Progression 2: Design Design Design
-Construct the body part of the layout. 
+Your task in this iteration is create the aside bar and article as per the expected output.
 
 ### Progression 3: Where is my foot 
-Create a footer layout with proper design.
+Your task in this iteration is to create a footer.
 
 ## Expected Output
 Here is a screenshot of the expected output.
