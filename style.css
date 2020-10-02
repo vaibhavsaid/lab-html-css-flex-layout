@@ -1,0 +1,43 @@
+header {
+  border: 1px #ccc solid;
+  padding: 10px;
+  margin: 4px;
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+}
+
+footer {
+  border: 1px #ccc solid;
+  padding: 10px;
+  margin: 4px;
+  background-color: orange;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container div {
+  border: 1px #ccc solid;
+  padding: 10px;
+  margin: 4px;
+}
+
+.box-1 {
+  flex: 1;
+  background-color: olive;
+}
+
+.box-2 {
+  flex: 2;
+  background-color: #556b2f;
+}
+
+.box-3 {
+  flex: 1;
+  background-color: olive;
+}
